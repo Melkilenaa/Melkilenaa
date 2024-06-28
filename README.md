@@ -1,5 +1,5 @@
 
-<img align="right" alt="Coding" width="400" src=" https://github.com/rudrabarad/Gifs">
+<img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Developer.gif">
 <p> Hi There, My name is Mel </p>
 
 
