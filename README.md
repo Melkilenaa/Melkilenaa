@@ -7,7 +7,6 @@
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Melkilenaa&theme=cobalt&hide_border=true)](https://git.io/streak-stats)
 
-![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=31bnpnouk4ktoioyeem2ghukyliu&count={count})
 [![Spotify recently played](https://spotify-recently-played-readme.vercel.app/api?user=31bnpnouk4ktoioyeem2ghukyliu&count=4)](https://open.spotify.com/user/31bnpnouk4ktoioyeem2ghukyliu)
 
 <h3 align="left">Connect with me:</h3>
