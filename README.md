@@ -1,7 +1,8 @@
 # 💫 About Me:
-Hey There, Am Mel.
+Hey There, Am Mel. <br>
 I am working on a full stack development in a management system using svelte JS.<br>All about learning something new everyday.
-
+<br>
+<img src="https://realtimevfx.com/t/tech-videos-images/76" alt="">
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/wanjvv) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@melk.ile3n.a) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/@melk_a) 
